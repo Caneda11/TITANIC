@@ -164,6 +164,6 @@ El dataset del Titanic es **público** y los datos reales de supervivencia está
 
 ## 👤 Autor
 
-**Tu Nombre** - [@TU-USUARIO](https://github.com/TU-USUARIO) - tu-email@ejemplo.com
+**Tu Nombre** - [@Caneda11](https://github.com/caneda11)
 
 Hecho con ❤️ como proyecto de aprendizaje en machine learning.
