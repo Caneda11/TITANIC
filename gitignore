@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operativo
+.DS_Store       # Mac
+Thumbs.db       # Windows
+
+# Datos procesados (los originales se mantienen, los derivados no)
+full_processed.csv
+*.pkl
+*.joblib
+
+# Logs
+*.log
+
+# Optuna
+optuna_study.db
+
+# Secretos (por si acaso)
+.env
+*.key
